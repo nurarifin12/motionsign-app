@@ -22,6 +22,6 @@ Motion Sign is an Sign Language Translation App. Motion Sign is inspired from He
 
 ## Documentation
 Here are links to documentation of some of the learning paths that make up this app:
-* [Machine Learning Documentation](https://github.com/)
+* [Machine Learning Documentation](https://github.com/handayaniarum/motionsign-ml)
 * [Mobile Development Documentation](https://github.com/nurarifin12/MotionSign)
 * [Cloud Computing Documentation](https://github.com/)
