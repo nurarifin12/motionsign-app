@@ -25,3 +25,28 @@ Here are links to documentation of some of the learning paths that make up this 
 * [Machine Learning Documentation](https://github.com/handayaniarum/motionsign-ml)
 * [Mobile Development Documentation](https://github.com/nurarifin12/MotionSign)
 * [Cloud Computing Documentation](https://github.com/)
+
+## Usage
+Get the app [here](#) and install it using package installer
+
+## Feature
+### Home Page
+<div float="left">
+    <img src="./img/Opening.jpeg" alt="Opening" width=45%>
+    <img src="./img/Homepage.jpeg" alt="Home Page" width=45%>
+</div>
+
+### Gesture Classification
+<img src="./img/Gesture-Classification.jpeg" alt="Gesture Classification" width=45%>
+
+</br>
+
+## Capstone Project Teams
+| Name                           | Bangkit ID  | LinkedIn Profile                                |
+|--------------------------------|-------------|-------------------------------------------------|
+| M. S. Y. Handayani Arum        | M200BSX1704 | https://www.linkedin.com/in/mulad-sariro-yekti-handayani-arum-270b55243/  |
+| Faizal Kurniawan               | M387BSY1258 | https://www.linkedin.com/in/                    |
+| Jeremy H. B. P.                | M008BSY1392 | https://www.linkedin.com/in/jeremy-hbp          |
+| Fikri Ardiansyah               | C695BSY4008 | https://www.linkedin.com/in/                    |
+| Haykal Maulana Rulian          | C001BSY3784 | https://www.linkedin.com/in/haykalmr/           |
+| Nur Arifin                     | C001BSY3784 | https://www.linkedin.com/in/                    |
