@@ -23,7 +23,7 @@ Motion Sign is an Sign Language Translation App. Motion Sign is inspired from He
 ## Documentation
 Here are links to documentation of some of the learning paths that make up this app:
 * [Machine Learning Documentation](https://github.com/handayaniarum/motionsign-ml)
-* [Mobile Development Documentation](https://github.com/nurarifin12/MotionSign)
+* [Mobile Development Documentation](https://github.com/nurarifin12/motion-sign-android.git)
 * [Cloud Computing Documentation](https://github.com/)
 
 ## Usage
@@ -49,4 +49,4 @@ Get the app [here](#) and install it using package installer
 | Jeremy H. B. P.                | M008BSY1392 | https://www.linkedin.com/in/jeremy-hbp          |
 | Fikri Ardiansyah               | C695BSY4008 | https://www.linkedin.com/in/                    |
 | Haykal Maulana Rulian          | C001BSY3784 | https://www.linkedin.com/in/haykalmr/           |
-| Nur Arifin                     | C001BSY3784 | https://www.linkedin.com/in/                    |
+| Nur Arifin                     | A695BSY2943 |https://www.linkedin.com/in/nur-arifin-18729725a/                  |
