@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./img/MotionSign-LOGO.png" alt="MotionSign">
+    <img src="./img/MotionSign-LOGO-new.png" alt="MotionSign" width="45%">
     <h1><strong>Motion Sign</strong></h1>
     <p style="font-size:16px">
     Sign Translate Language Transalate App powered by machine learning.</br>
